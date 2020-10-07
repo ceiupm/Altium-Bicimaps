@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=VCC_3.7V Pin=C2-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=C3-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=C8-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=J2-1
+Removed Pin From Net: NetName=VCC_3.7V Pin=J3-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=L1-2
+Removed Pin From Net: NetName=SCL_GAS_1 Pin=Q1-2
+Removed Pin From Net: NetName=SCL_GAS_2 Pin=Q1-3
+Removed Pin From Net: NetName=SDA_GAS_1 Pin=Q2-2
+Removed Pin From Net: NetName=SDA_GAS_2 Pin=Q2-3
+Removed Pin From Net: NetName=VCC_3.7V Pin=R7-2
+Removed Pin From Net: NetName=SDA_GAS_1 Pin=R13-2
+Removed Pin From Net: NetName=SCL_GAS_1 Pin=R14-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=R16-1
+Removed Pin From Net: NetName=SCL_GAS_2 Pin=R16-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=R17-1
+Removed Pin From Net: NetName=SDA_GAS_2 Pin=R17-2
+Removed Pin From Net: NetName=VCC_3.7V Pin=U1-3
+Removed Pin From Net: NetName=VCC_3.7V Pin=U2-VIN
+Change Component Footprint: Designator=U6 Old Footprint=LP2985 New Footprint=NCP114-UDFN4
+Change Component Comment : Designator=U6 Old Comment=LP2985 New Comment=NCP114
+Change component parameters: Designator = "C8"; Footprint = "0603"; UniqueID = "\IDPWRQII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2456110RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "0603"; UniqueID = "\VLGDJYDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2456110RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "NCP114-UDFN4"; UniqueID = "\XLGYBCNF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1238840"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "NCP114AMX330TCGOSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.7V Pin=C9-2
+Added Pin To Net: NetName=VCC_3.7V Pin=C15-2
+Added Pin To Net: NetName=VCC_3.7V Pin=R15-2
+Added Pin To Net: NetName=VCC_3.7V Pin=U3-VDD
+Added Pin To Net: NetName=VCC_3.7V Pin=U5-12
+Change Net Name : Old Net Name=VCC_3.7V New Net Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_3.7V Pin=C2-2
+Added Pin To Net: NetName=VCC_3.7V Pin=C3-2
+Added Pin To Net: NetName=VCC_3.7V Pin=C8-2
+Added Pin To Net: NetName=VCC_3.7V Pin=J2-1
+Added Pin To Net: NetName=VCC_3.7V Pin=J3-2
+Added Pin To Net: NetName=VCC_3.7V Pin=L1-2
+Added Pin To Net: NetName=VCC_3.7V Pin=R7-2
+Added Pin To Net: NetName=VCC_3.7V Pin=U1-3
+Added Pin To Net: NetName=VCC_3.7V Pin=U2-VIN
+Added Pin To Net: NetName=VCC_3.7V Pin=U6-4
+Added Net: Name=VCC_3.7V
+Added Member To Class: ClassName=Alimentacion_3 Member=Component C8 Cap
+Added Member To Class: ClassName=Alimentacion_3 Member=Component C9 Cap
+Added Member To Class: ClassName=Alimentacion_3 Member=Component U6 NCP114

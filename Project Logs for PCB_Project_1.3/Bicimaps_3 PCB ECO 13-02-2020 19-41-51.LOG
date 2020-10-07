@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=MISO_ISP Pin=J3-1
+Added Pin To Net: NetName=VCC_3.3V Pin=J3-2
+Added Pin To Net: NetName=SCLK_ISP Pin=J3-3
+Added Pin To Net: NetName=MOSI_ISP Pin=J3-4
+Added Pin To Net: NetName=RESET_N Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6

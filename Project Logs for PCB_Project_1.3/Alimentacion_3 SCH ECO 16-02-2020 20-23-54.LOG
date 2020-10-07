@@ -1,0 +1,4 @@
+Change Value of Parameter Supplier 1 in Part C1 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C1 Old=1572625 New=6911155
+Added Parameter Supplier 2=Digi-Key to Part C1
+Added Parameter Supplier Part Number 2=399-5503-6-ND to Part C1

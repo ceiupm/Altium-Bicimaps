@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U6 Old Footprint=NCP114-UDFN4 New Footprint=NCP114-TSOP5
+Added Pin To Net: NetName=VCC_3.3V Pin=U6-5

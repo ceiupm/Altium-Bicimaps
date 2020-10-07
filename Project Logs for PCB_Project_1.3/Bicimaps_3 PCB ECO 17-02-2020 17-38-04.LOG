@@ -1,0 +1,16 @@
+Added Component: Designator=U3(CCS811)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "985-CCS811B-JOPR5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "CCS811B-JOPR5KCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-ADD
+Added Pin To Net: NetName=INT GAS Pin=U3-INT
+Added Pin To Net: NetName=NetU3_PWM Pin=U3-PWM
+Added Pin To Net: NetName=RESET GAS Pin=U3-RES
+Added Pin To Net: NetName=SCL_GAS Pin=U3-SCL
+Added Pin To Net: NetName=SDA_GAS Pin=U3-SDA
+Added Pin To Net: NetName=NetU3_PWM Pin=U3-SEN
+Added Pin To Net: NetName=VCC_3.3V Pin=U3-VDD
+Added Pin To Net: NetName=WAKE GAS Pin=U3-WAK
+Added Member To Class: ClassName=Sensores_3 Member=Component U3 CCS811

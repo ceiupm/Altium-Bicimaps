@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SCL_GAS Pin=IC1-18
+Added Pin To Net: NetName=SCL_GAS Pin=U3-SCL
+Added Net: Name=SCL_GAS
+Added Pin To Net: NetName=SDA_GAS Pin=IC1-19
+Added Pin To Net: NetName=SDA_GAS Pin=U3-SDA
+Added Net: Name=SDA_GAS

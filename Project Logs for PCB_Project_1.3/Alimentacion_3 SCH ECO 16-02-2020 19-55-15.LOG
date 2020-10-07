@@ -1,0 +1,20 @@
+Change Value of Parameter Supplier 1 in Part C3 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C3 Old=2456110RL New=7882893P
+Change Value of Parameter Supplier 1 in Part C4 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C4 Old=2456110RL New=7882893P
+Change Value of Parameter Supplier 1 in Part C8 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C8 Old=2456110RL New=4612708
+Change Value of Parameter Supplier 1 in Part C9 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C9 Old=2456110RL New=4612708
+Added Parameter Supplier 1=RSComponents to Part R3
+Added Parameter Supplier 2=Digi-Key to Part C3
+Added Parameter Supplier 2=Digi-Key to Part C4
+Added Parameter Supplier 2=Digi-Key to Part R3
+Added Parameter Supplier 2=Farnell to Part C8
+Added Parameter Supplier 2=Farnell to Part C9
+Added Parameter Supplier Part Number 1=7325779 to Part R3
+Added Parameter Supplier Part Number 2=445-7486-1-ND to Part C3
+Added Parameter Supplier Part Number 2=445-7486-1-ND to Part C4
+Added Parameter Supplier Part Number 2=9227776 to Part C8
+Added Parameter Supplier Part Number 2=9227776 to Part C9
+Added Parameter Supplier Part Number 2=P22GCT-ND to Part R3

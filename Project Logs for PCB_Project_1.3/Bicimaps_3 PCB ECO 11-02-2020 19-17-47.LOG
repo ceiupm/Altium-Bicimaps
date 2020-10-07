@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOSI_AC Pin=R9-1
+Removed Pin From Net: NetName=MOSI_ISP Pin=R9-2
+Added Pin To Net: NetName=MOSI_ISP Pin=R9-1
+Added Pin To Net: NetName=MOSI_AC Pin=R9-2

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bicimaps_3.PcbDoc   18/02/2020  20:23:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bicimaps_3-RoundHoles.TXT
+ASCII SlotHoles File : Bicimaps_3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             62        PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Slot              2         PTH        0.00mm (0.00inch)
+T3      0.9mm (35mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T4      2.001mm (79mil)                                           Round             2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+
+Total Processing Time (hh:mm:ss) : 00:00:01

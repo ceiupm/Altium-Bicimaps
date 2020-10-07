@@ -1,0 +1,53 @@
+Change Value of Parameter Supplier 1 in Part C5 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C5 Old=2370704 New=4612708
+Change Value of Parameter Supplier 1 in Part C10 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C10 Old=2370704 New=8015205
+Change Value of Parameter Value in Part C10 Old=100nF New=0.1uF
+Change Value of Parameter Supplier 1 in Part C11 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C11 Old=2370704 New=8015205
+Change Value of Parameter Value in Part C11 Old=100nF New=0.1uF
+Change Value of Parameter Supplier 1 in Part C12 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C12 Old=2370704 New=8015205
+Change Value of Parameter Value in Part C12 Old=100nF New=0.1uF
+Change Value of Parameter Supplier 1 in Part C13 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C13 Old=2370704 New=8015205
+Change Value of Parameter Value in Part C13 Old=100nF New=0.1uF
+Change Value of Parameter Supplier 1 in Part C14 Old=Farnell New=RSComponents
+Change Value of Parameter Supplier Part Number 1 in Part C14 Old=2370704 New=8015205
+Change Value of Parameter Value in Part C14 Old=100nF New=0.1uF
+Added Parameter Supplier 1=RSComponents to Part R5
+Added Parameter Supplier 1=RSComponents to Part R6
+Added Parameter Supplier 1=RSComponents to Part R7
+Added Parameter Supplier 1=RSComponents to Part R8
+Added Parameter Supplier 1=RSComponents to Part R9
+Added Parameter Supplier 1=RSComponents to Part R10
+Added Parameter Supplier 2=Digi-Key to Part C10
+Added Parameter Supplier 2=Digi-Key to Part C11
+Added Parameter Supplier 2=Digi-Key to Part C12
+Added Parameter Supplier 2=Digi-Key to Part C13
+Added Parameter Supplier 2=Digi-Key to Part C14
+Added Parameter Supplier 2=Digi-Key to Part R5
+Added Parameter Supplier 2=Digi-Key to Part R6
+Added Parameter Supplier 2=Digi-Key to Part R7
+Added Parameter Supplier 2=Digi-Key to Part R8
+Added Parameter Supplier 2=Digi-Key to Part R9
+Added Parameter Supplier 2=Digi-Key to Part R10
+Added Parameter Supplier 2=Farnell to Part C5
+Added Parameter Supplier Part Number 1=1051156 to Part R5
+Added Parameter Supplier Part Number 1=1051156 to Part R7
+Added Parameter Supplier Part Number 1=8145889 to Part R6
+Added Parameter Supplier Part Number 1=8145889 to Part R8
+Added Parameter Supplier Part Number 1=8145889 to Part R9
+Added Parameter Supplier Part Number 1=8145889 to Part R10
+Added Parameter Supplier Part Number 2=399-1095-1-ND to Part C10
+Added Parameter Supplier Part Number 2=399-1095-1-ND to Part C11
+Added Parameter Supplier Part Number 2=399-1095-1-ND to Part C12
+Added Parameter Supplier Part Number 2=399-1095-1-ND to Part C13
+Added Parameter Supplier Part Number 2=399-1095-1-ND to Part C14
+Added Parameter Supplier Part Number 2=9227776 to Part C5
+Added Parameter Supplier Part Number 2=P1.00KHCT-ND to Part R6
+Added Parameter Supplier Part Number 2=P1.00KHCT-ND to Part R8
+Added Parameter Supplier Part Number 2=P1.00KHCT-ND to Part R9
+Added Parameter Supplier Part Number 2=P1.00KHCT-ND to Part R10
+Added Parameter Supplier Part Number 2=P10.0KHDKR-ND to Part R5
+Added Parameter Supplier Part Number 2=P10.0KHDKR-ND to Part R7

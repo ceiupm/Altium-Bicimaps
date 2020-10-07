@@ -1,0 +1,11 @@
+Added Component: Designator=U6(NCP114-UDFN4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1238840"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "NCP114AMX330TCGOSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.3V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=POWER_BT Pin=U6-3
+Added Pin To Net: NetName=VCC_3.7V Pin=U6-4
+Added Member To Class: ClassName=Alimentacion_3 Member=Component U6 NCP114

@@ -1,0 +1,52 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\PCB_Project_1.3\Bicimaps_3.PcbDoc
+Date         : 15/02/2020
+Time         : 21:40:03
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    CS_AC, Signal Layers Only, 26.9598mm
+    D+, Signal Layers Only, 11.4018mm
+    D-, Signal Layers Only, 13.8408mm
+    GND, Signal Layers Only, 106.9202mm
+    INT GAS, Signal Layers Only, 43.1956mm
+    INT0_AC, Signal Layers Only, 11.5769mm
+    INT1_AC, Signal Layers Only, 12.6201mm
+    MASTER_BT, Signal Layers Only, 28.5099mm
+    MISO_AC, Signal Layers Only, 2.83mm
+    MISO_ISP, Signal Layers Only, 39.3085mm
+    MOSI_AC, Signal Layers Only, 4.0419mm
+    MOSI_ISP, Signal Layers Only, 43.5701mm
+    NetC5_1, Signal Layers Only, 2.383mm
+    NetD1_1, Signal Layers Only, 9.4835mm
+    NetD1_2, Signal Layers Only, 3.5157mm
+    NetD2_1, Signal Layers Only, 2.5133mm
+    NetD2_2, Signal Layers Only, 8.9266mm
+    NetJ1_2, Signal Layers Only, 5.3778mm
+    NetJ1_3, Signal Layers Only, 4.7628mm
+    NetL1_1, Signal Layers Only, 1.6482mm
+    NetR1_2, Signal Layers Only, 3.1037mm
+    NetU3_PWM, Signal Layers Only, 0.6mm
+    ON_3.3V/5V, Signal Layers Only, 57.6325mm
+    POWER_BT, Signal Layers Only, 26.7823mm
+    RESET GAS, Signal Layers Only, 32.0992mm
+    RESET_N, Signal Layers Only, 68.4263mm
+    RESET_SENSOR_2, Signal Layers Only, 34.1363mm
+    RX_BT, Signal Layers Only, 35.0201mm
+    RX_HMP, Signal Layers Only, 27.727mm
+    SCLK_AC, Signal Layers Only, 5.0473mm
+    SCLK_ISP, Signal Layers Only, 43.4115mm
+    SCL_GAS, Signal Layers Only, 23.0513mm
+    SDA_GAS, Signal Layers Only, 21.1891mm
+    SET_SENSOR_2, Signal Layers Only, 26.4412mm
+    TX_BT, Signal Layers Only, 37.1319mm
+    TX_HMP, Signal Layers Only, 24.5288mm
+    VBUS, Signal Layers Only, 40.4496mm
+    VCC_3.3V, Signal Layers Only, 257.279mm
+    VCC_3.7V, Signal Layers Only, 14.4364mm
+    VCC_5V, Signal Layers Only, 24.1696mm
+    WAKE GAS, Signal Layers Only, 18.0085mm
+    WAKEUP, Signal Layers Only, 15.0098mm
+    XTAL1, Signal Layers Only, 5.9246mm
+    XTAL2, Signal Layers Only, 5.736mm
+count : 44
